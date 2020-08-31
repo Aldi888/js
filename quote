@@ -1,0 +1,2 @@
+var sayHi = 'Hello \'I am a JS noob.\' ';
+document.write(sayHi);
